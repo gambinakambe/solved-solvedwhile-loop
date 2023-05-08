@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedwhile-loop
+<br>
+Open the provided file ConvertLoop.java Convert the following code so that it uses nested while statements instead of for statements. Place the new code at the end of the code in ConvertLoop.java. int s = 0; int t = 1; for (int i = 0; i &lt; 5; i++) { s = s + i; for (int j = i; j 0; j–) { t = t + (j-1); } s = s + t; System.out.println(“T is ” + t); } System.out.println(“S is ” + s);
